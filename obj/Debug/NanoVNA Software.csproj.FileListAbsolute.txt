@@ -1,0 +1,11 @@
+C:\Users\tkraf\Documents\GitHub\NanoVNA-Software\NanoVNA Software\bin\Debug\NanoVNA Software.exe.config
+C:\Users\tkraf\Documents\GitHub\NanoVNA-Software\NanoVNA Software\bin\Debug\NanoVNA Software.exe
+C:\Users\tkraf\Documents\GitHub\NanoVNA-Software\NanoVNA Software\bin\Debug\NanoVNA Software.pdb
+C:\Users\tkraf\Documents\GitHub\NanoVNA-Software\NanoVNA Software\obj\Debug\NanoVNA Software.csproj.AssemblyReference.cache
+C:\Users\tkraf\Documents\GitHub\NanoVNA-Software\NanoVNA Software\obj\Debug\NanoVNA Software.csproj.SuggestedBindingRedirects.cache
+C:\Users\tkraf\Documents\GitHub\NanoVNA-Software\NanoVNA Software\obj\Debug\NanoVNA_Software.Form1.resources
+C:\Users\tkraf\Documents\GitHub\NanoVNA-Software\NanoVNA Software\obj\Debug\NanoVNA_Software.Properties.Resources.resources
+C:\Users\tkraf\Documents\GitHub\NanoVNA-Software\NanoVNA Software\obj\Debug\NanoVNA Software.csproj.GenerateResource.cache
+C:\Users\tkraf\Documents\GitHub\NanoVNA-Software\NanoVNA Software\obj\Debug\NanoVNA Software.csproj.CoreCompileInputs.cache
+C:\Users\tkraf\Documents\GitHub\NanoVNA-Software\NanoVNA Software\obj\Debug\NanoVNA Software.exe
+C:\Users\tkraf\Documents\GitHub\NanoVNA-Software\NanoVNA Software\obj\Debug\NanoVNA Software.pdb
